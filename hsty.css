@@ -1,0 +1,14 @@
+
+
+.jumbotron{
+    background-image: url('https://images4.alphacoders.com/900/900718.jpg');
+    height:80vh;
+    background-size: cover;
+    background-position:center;
+    padding: 0px;
+}
+
+.fz{
+    font-size: 30px;
+}
+
